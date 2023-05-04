@@ -16,7 +16,7 @@ def main():
     hs = "High School"
     og = "Organizations"
     namesonly = {ev, milb, uni, hs, og, soc}
-    root = "Z:/Marketing_Iconik/Graphics/Assets/Sports Logos/"
+    root = "/mnt/Lucid/Marketing_Iconik/Graphics/Assets/Sports Logos/"
     args = [
         ["{1AFDCA30-B717-4865-AEBD-7536031A203E}", "fort gibson", "tigers", hs],
         ["{36DFF14C-3EB6-44D1-A2D7-E21909A5DA50}", "tonkawa", "buccaneers", hs],
